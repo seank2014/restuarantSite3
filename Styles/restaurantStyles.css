@@ -1,0 +1,61 @@
+/*
+
+Creator: Sean King
+Date created: 10/23/2018
+Date last modified: 10/23/2018
+*/
+
+body {
+    background-color: mintcream;
+    font-family: 'Indie Flower', cursive;
+    color: black;
+}
+
+ .jumbotron{
+            
+            background: darkblue;
+            
+        }
+
+
+header{
+    color: lightgray;
+    text-align: center;
+}
+
+footer {
+    background-color: darkblue;
+    color: lightgray;
+    height: 100px;
+    text-align: center;
+    padding: 30px 10px 20px 10px;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+/*nav a {
+    background-color: darkblue;
+    color: lightgrey;
+    padding: 8px;
+    border: thin solid black;
+    text-decoration: none;
+    display: block;
+    margin: 20px 20px;
+    width: 100px;
+    float: left;
+}
+
+nav a:hover {
+    background-color: black;
+    color: gold; 
+}
+
+nav a:active {
+    font-weight: bold;
+}
+
+nav a:visited {
+    color: lightgrey; 
+}*/
